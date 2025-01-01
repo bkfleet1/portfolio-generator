@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/bkfleet1/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "*"
   }
 }
